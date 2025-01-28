@@ -1,5 +1,10 @@
 # fdalabel_handler
 
+## Note
+
+This repository is under construction and will be officially released by [Mizuno group](https://github.com/mizuno-group).  
+Please contact tadahaya[at]gmail.com before publishing your paper using the contents of this repository.  
+
 ## これはなに
 
 FDA@label のデータを処理したコードです。
@@ -39,3 +44,17 @@ FDA@label のデータを処理したコードです。
 
 * NAS の text 直下の fdalabel フォルダにあります。
 * カラムの説明は fdalabel_columns.csv にまとまっています。
+
+## Authors
+
+* [Mei Yoshikawa](https://github.com/KaijuAtUT)
+    * main contributor
+* [Tadahaya Mizuno](https://github.com/tadahayamiz)
+    * correspondence
+
+## Contact
+
+If you have any questions or comments, please feel free to create an issue on github here, or email us:  
+* yoshikawa-mei2525[at]g.ecc.u-tokyo.ac.jp  
+* tadahaya[at]gmail.com  
+    * lead contact  
