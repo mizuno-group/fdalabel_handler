@@ -57,4 +57,4 @@ FDA@label のデータを処理したコードです。
 If you have any questions or comments, please feel free to create an issue on github here, or email us:  
 * yoshikawa-mei2525[at]g.ecc.u-tokyo.ac.jp  
 * tadahaya[at]gmail.com  
-    * lead contact  
+    * lead contact
